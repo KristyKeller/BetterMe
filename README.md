@@ -1,6 +1,6 @@
 # 🍽BetterMe
 
-### [CLICK HERE TO VIEW LIVE SITE](https://kevinconnell96.github.io/BetterMe/) 
+### [CLICK HERE TO VIEW LIVE SITE](https://kristykeller.github.io/BetterMe/) 
 
 ## User Story
 ```
@@ -30,3 +30,9 @@ The user can favorite recipes and revisit those meals at any time using the favo
 - [Materialize](https://materializecss.com/) 
 - [Edamam API](https://developer.edamam.com/edamam-docs-recipe-api) 
 - [wger API](https://wger.de/en/software/api) 
+
+## Developers
+[Gregory Allen](https://kevinconnell96.github.io/BetterMe/)
+[Kevin Connell](https://kevinconnell96.github.io/BetterMe/) 
+[Kristy Keller](https://kevinconnell96.github.io/BetterMe/) 
+[Joshua Trevethan](https://kevinconnell96.github.io/BetterMe/) 
