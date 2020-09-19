@@ -32,7 +32,7 @@ The user can favorite recipes and revisit those meals at any time using the favo
 - [wger API](https://wger.de/en/software/api) 
 
 ## Developers
-[Gregory Allen](https://kevinconnell96.github.io/BetterMe/)
-[Kevin Connell](https://kevinconnell96.github.io/BetterMe/) 
-[Kristy Keller](https://kevinconnell96.github.io/BetterMe/) 
-[Joshua Trevethan](https://kevinconnell96.github.io/BetterMe/) 
+* [Gregory Allen](https://github.com/GregoryAllen36)
+* [Kevin Connell](https://github.com/kevinconnell96)
+* [Kristy Keller](https://github.com/KristyKeller) 
+* [Joshua Trevethan](https://github.com/JoshTrev) 
