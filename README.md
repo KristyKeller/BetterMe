@@ -32,6 +32,7 @@ The user can favorite recipes and revisit those meals at any time using the favo
 - [wger API](https://wger.de/en/software/api) 
 - HTML
 - CSS
+- JavaScript
 - jQuery
 
 ## Developers
