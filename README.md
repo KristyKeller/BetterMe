@@ -1,6 +1,6 @@
 # 🍽BetterMe
 
-### [CLICK HERE TO VIEW LIVE SITE](https://kristykeller.github.io/BetterMe/) 
+[CLICK HERE TO VIEW LIVE SITE](https://kristykeller.github.io/BetterMe/) 
 
 ## User Story
 ```
